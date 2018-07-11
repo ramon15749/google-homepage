@@ -1,0 +1,119 @@
+html{
+	font-family: arial;
+	font-size: 13px;
+	color: #757575;
+}
+
+.text{
+	color: black;
+}
+
+button{
+	font-weight: bold;
+	color: #757575;
+	background-color: #f5f5f5;
+	border: 1px solid #f5f5f5;
+	margin: 11px 4px 30px 4px;
+	padding: 10px 15px 10px 15px;
+	border-radius: 3px;
+}
+
+button:hover{
+	background-color: rgb(248, 248, 248);
+	color: black;
+	border: 1px solid rgb(198, 198, 198);
+}
+
+li ul{
+	display: inline;
+}
+
+
+.middle{
+	position: relative;
+	top: 233px;
+	margin-left: auto;
+	text-align: center;
+}
+
+#search_bar{
+	width: 403px;
+	height: 40px;
+	padding: 5px 9px 5px 16px;
+	margin: 10px 0px 10px 0px; 
+	box-shadow: 0px 1px 3px #858585;
+	border: 1px solid #f5f5f5; 
+}
+
+.logo{
+	margin-bottom: 10px;
+}
+
+li{
+	list-style-type: none;
+}
+
+.top{
+	text-align:right;
+	margin: 15px 0px 15px 0px;
+}
+
+
+
+.footer div{
+	position: relative;
+	bottom: 0px;
+	padding: 15px 15px 15px 15px;
+	width: 100%;
+	background-color: rgb(242, 242, 242);
+	border-top: 0.5px solid #e4e4e4;
+	
+}
+
+li ol{
+	display: inline;
+	padding: 0px 5px 0px 10px;
+}
+
+.top ol{
+	display: inline;
+	color: black;
+	padding: 0px 5px 0px 5px;
+}
+
+.footer li a{
+	color: rgb(117, 117, 117);
+	text-decoration: none;
+}
+
+.top a{
+	color: black;
+	text-decoration: none;
+}
+
+li a:hover{
+	text-decoration: underline;
+}
+
+.right{
+	float: right;
+}
+
+.footer{
+	position: absolute;
+	height: 90px;
+	width: 100%;
+	bottom: 0px;
+}
+
+.below{
+	width: 100%;
+}
+
+.bottom ol{
+	font-size: 15px;
+} 
+
+img{
+padding: 
+}
